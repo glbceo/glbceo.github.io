@@ -3,6 +3,12 @@ layout: default
 title: 欢迎来到避雷踩雷频道
 ---
 
+<!-- Google AdSense 自动广告代码 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6888896198750120"
+  crossorigin="anonymous"></script>
+
+<img src="/cover.png" alt="频道封面" style="width:100%; border-radius:12px; margin-bottom:20px;" />
+
 # 🎯 避雷踩雷频道｜避坑经验 × 实测分享
 
 欢迎来到 **避雷踩雷频道官网**！
