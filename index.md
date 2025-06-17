@@ -1,15 +1,11 @@
 ---
 layout: default
-title: 欢迎来到避雷踩雷频道
+title: 避雷踩雷频道｜避坑经验 × 实测分享
 ---
-
-<!-- Google AdSense 自动广告代码 -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6888896198750120"
-  crossorigin="anonymous"></script>
 
 <img src="/cover.png" alt="频道封面" style="width:100%; border-radius:12px; margin-bottom:20px;" />
 
-# 🎯 避雷踩雷频道｜避坑经验 × 实测分享
+# 🎯 避雷踩雷频道
 
 欢迎来到 **避雷踩雷频道官网**！
 
@@ -25,14 +21,5 @@ title: 欢迎来到避雷踩雷频道
 
 ---
 
-## 🆕 最新视频文章
-
-- [五道口代办美国银行账户骗局曝光](./posts/wudaokou-fraud.html)
-
-👉 更多内容欢迎订阅我们的 [YouTube 频道](https://www.youtube.com/@glbceo)
-
----
-
 📧 联系方式：[bileicailei@gmail.com](mailto:bileicailei@gmail.com)  
-💬 Telegram 频道：[https://t.me/glbceo](https://t.me/glbceo)  
-🔒 建议：不要轻信网上中介，不要随意提供个人信息！
+💬 Telegram：[https://t.me/glbceo](https://t.me/glbceo)
