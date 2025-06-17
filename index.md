@@ -17,5 +17,5 @@ title: 欢迎来到避雷踩雷频道
 
 ---
 
-📧 联系方式：glbceo@protonmail.com  
+📧 联系方式：bileicailei@gmail.com  
 🔒 建议：不要轻信网上中介，不要随意提供个人信息！
