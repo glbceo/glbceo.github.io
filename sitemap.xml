@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://glbceo.github.io/</loc>
-    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glbceo.github.io/about</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://glbceo.github.io/blog.html</loc>
   </url>
   <url>
-    <loc>https://glbceo.github.io/blog</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://glbceo.github.io/posts/wudaokou-fraud.html</loc>
   </url>
 </urlset>
