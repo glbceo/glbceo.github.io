@@ -1,8 +1,2 @@
 title: 避雷踩雷
 description: 分享真实被骗经历，帮你远离坑货中介！
-
-theme: jekyll-theme-cayman
-show_downloads: false
-
-paginate: 5
-paginate_path: "/blog/page:num"
