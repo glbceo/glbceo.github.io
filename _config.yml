@@ -1,4 +1,13 @@
 title: 避雷踩雷
 description: 分享真实被骗经历，帮你远离坑货中介！
+url: "https://glbceo.github.io"  # 注意：必须是你的 GitHub Pages 主网址
+
 include:
   - sitemap.xml
+
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
