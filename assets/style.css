@@ -33,3 +33,11 @@ footer {
   padding: 10px;
   font-size: 14px;
 }
+.article-header img {
+  max-height: 300px;
+  width: auto;
+  max-width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 20px auto;
+}
