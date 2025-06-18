@@ -1,0 +1,33 @@
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #222;
+  background: #fff;
+}
+header.hero {
+  position: relative;
+}
+.cover-img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.overlay-text {
+  position: absolute;
+  top: 30%;
+  left: 8%;
+  color: white;
+  text-shadow: 0px 2px 5px rgba(0,0,0,0.8);
+}
+main {
+  padding: 20px;
+}
+footer {
+  background: #f8f8f8;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
